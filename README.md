@@ -2,4 +2,4 @@
 Program ini adalah tugas akhir dari kuliah saya. tugas akhir ini berfokus terhadap deep learning. autoencoder neural network dalam program ini terdiri dari 3 bagian yaitu input layer, hidden layer dan output layer. namun dalam program ini masih terdapat kekurangan yaitu terbatasnya ukuran yang dapat dikompresi
 
 
-![AdminBSB - Free Admin Template With Material Design](https://mnuralfiansyah.github.io/img/portfolio/6/1.png)
+![AdminBSB - Free Admin Template With Material Design](https://mnuralfiansyah.github.io/img/tugas_akhir/arsitekturAENN_mnuralfiansyah.JPG)
