@@ -4,7 +4,7 @@ Program ini adalah tugas akhir dari kuliah saya. tugas akhir ini berfokus terhad
 
 
 Arsitektur yang digunakan
-![M+Nur+alfiansyah](https://mnuralfiansyah.github.io/img/tugas_akhir/arsitekturAENN_mnuralfiansyah.JPG)
+![M+Nur+alfiansyah](https://mnuralfiansyah.github.io/img/tugas_akhir/arsitekturAENN_m+nur+alfiansyah.JPG)
 
 Proses Kompresi dengan Variabel AENN
 ![M+Nur+alfiansyah](https://mnuralfiansyah.github.io/img/tugas_akhir/kompresi_dengan_variabel_AENN_m+nur+alfiansyah.JPG)
