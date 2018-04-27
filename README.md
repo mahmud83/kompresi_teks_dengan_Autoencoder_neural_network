@@ -13,10 +13,8 @@ Proses Dekompresi dengan Variabel AENN
 ![M+Nur+alfiansyah](https://mnuralfiansyah.github.io/img/tugas_akhir/dekompresi_dengan_variabel_AENN_m+nur+alfiansyah.JPG)
 
 Tampilan Aplikasi
-![M+Nur+alfiansyah](https://mnuralfiansyah.github.io/img/tugas_akhir/dekompresi_dengan_variabel_AENN_m+nur+alfiansyah.JPG)
+![M+Nur+alfiansyah](https://mnuralfiansyah.github.io/img/tugas_akhir/tampilan_awal_m+nur+alfiansyah.JPG)
 
-Tampilan Aplikasi
-![M+Nur+alfiansyah](https://mnuralfiansyah.github.io/img/tugas_akhir/dekompresi_dengan_variabel_AENN_m+nur+alfiansyah.JPG)
 
 
 Tampilan Proses Kompresi
